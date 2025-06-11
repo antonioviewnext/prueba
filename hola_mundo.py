@@ -1,5 +1,5 @@
 print('Hola mundo')
-print('Estoy en apellido')
-print('vamos a unir merge con conflictos')
-print('esta es la prueba de un merge')
+
+print('limpieza de comandos')
+
 print('fin del programa')
