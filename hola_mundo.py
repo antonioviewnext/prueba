@@ -1,5 +1,5 @@
 print('Hola mundo')
 
-print('este es el cambio principal')
-
-print('fin del progarma')
+print('probando cambios y ya estan unidos con un merge con conflictos')
+print('esta es la prueba de un merge')
+print('fin del programa')
